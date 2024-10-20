@@ -18,7 +18,8 @@ If you'd like to explore or work on the codebase:
 
 ## Yarn and NPM Scripts
 
-These scripts were used to interact with the application during development and testing. **Note:** Due to the loss of access to the original Supabase database, these commands may not function as expected.
+These scripts were used to interact with the application during development and testing. 
+**Note:** Due to the loss of access to the original Supabase database, these commands may not function as expected.
 
 ### Development
 - `npm run dev`  
